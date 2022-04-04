@@ -1,0 +1,6 @@
+E:\code\vs\c#\study\学习csharp编程\019关于goto语句\bin\Debug\019关于goto语句.exe.config
+E:\code\vs\c#\study\学习csharp编程\019关于goto语句\bin\Debug\019关于goto语句.exe
+E:\code\vs\c#\study\学习csharp编程\019关于goto语句\bin\Debug\019关于goto语句.pdb
+E:\code\vs\c#\study\学习csharp编程\019关于goto语句\obj\Debug\019关于goto语句.csproj.CoreCompileInputs.cache
+E:\code\vs\c#\study\学习csharp编程\019关于goto语句\obj\Debug\019关于goto语句.exe
+E:\code\vs\c#\study\学习csharp编程\019关于goto语句\obj\Debug\019关于goto语句.pdb

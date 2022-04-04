@@ -1,0 +1,7 @@
+E:\code\vs\c#\study\学习csharp编程\009从键盘上入去输入的字符串\bin\Debug\009从键盘上入去输入的字符串.exe.config
+E:\code\vs\c#\study\学习csharp编程\009从键盘上入去输入的字符串\bin\Debug\009从键盘上入去输入的字符串.exe
+E:\code\vs\c#\study\学习csharp编程\009从键盘上入去输入的字符串\bin\Debug\009从键盘上入去输入的字符串.pdb
+E:\code\vs\c#\study\学习csharp编程\009从键盘上入去输入的字符串\obj\Debug\009从键盘上入去输入的字符串.csprojAssemblyReference.cache
+E:\code\vs\c#\study\学习csharp编程\009从键盘上入去输入的字符串\obj\Debug\009从键盘上入去输入的字符串.csproj.CoreCompileInputs.cache
+E:\code\vs\c#\study\学习csharp编程\009从键盘上入去输入的字符串\obj\Debug\009从键盘上入去输入的字符串.exe
+E:\code\vs\c#\study\学习csharp编程\009从键盘上入去输入的字符串\obj\Debug\009从键盘上入去输入的字符串.pdb

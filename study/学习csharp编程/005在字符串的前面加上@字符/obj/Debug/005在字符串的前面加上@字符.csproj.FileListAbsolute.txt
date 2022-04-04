@@ -1,0 +1,7 @@
+E:\code\vs\c#\study\学习csharp编程\005在字符串的前面加上@字符\bin\Debug\005在字符串的前面加上@字符.exe.config
+E:\code\vs\c#\study\学习csharp编程\005在字符串的前面加上@字符\bin\Debug\005在字符串的前面加上@字符.exe
+E:\code\vs\c#\study\学习csharp编程\005在字符串的前面加上@字符\bin\Debug\005在字符串的前面加上@字符.pdb
+E:\code\vs\c#\study\学习csharp编程\005在字符串的前面加上@字符\obj\Debug\005在字符串的前面加上@字符.csprojAssemblyReference.cache
+E:\code\vs\c#\study\学习csharp编程\005在字符串的前面加上@字符\obj\Debug\005在字符串的前面加上@字符.csproj.CoreCompileInputs.cache
+E:\code\vs\c#\study\学习csharp编程\005在字符串的前面加上@字符\obj\Debug\005在字符串的前面加上@字符.exe
+E:\code\vs\c#\study\学习csharp编程\005在字符串的前面加上@字符\obj\Debug\005在字符串的前面加上@字符.pdb

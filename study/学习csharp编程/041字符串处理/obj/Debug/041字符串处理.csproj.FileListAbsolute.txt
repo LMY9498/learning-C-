@@ -1,0 +1,6 @@
+E:\code\vs\c#\study\学习csharp编程\041字符串处理\bin\Debug\041字符串处理.exe.config
+E:\code\vs\c#\study\学习csharp编程\041字符串处理\bin\Debug\041字符串处理.exe
+E:\code\vs\c#\study\学习csharp编程\041字符串处理\bin\Debug\041字符串处理.pdb
+E:\code\vs\c#\study\学习csharp编程\041字符串处理\obj\Debug\041字符串处理.csproj.CoreCompileInputs.cache
+E:\code\vs\c#\study\学习csharp编程\041字符串处理\obj\Debug\041字符串处理.exe
+E:\code\vs\c#\study\学习csharp编程\041字符串处理\obj\Debug\041字符串处理.pdb

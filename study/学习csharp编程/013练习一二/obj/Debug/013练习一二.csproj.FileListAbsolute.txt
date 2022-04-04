@@ -1,0 +1,6 @@
+E:\code\vs\c#\study\学习csharp编程\013练习一二\bin\Debug\013练习一二.exe.config
+E:\code\vs\c#\study\学习csharp编程\013练习一二\bin\Debug\013练习一二.exe
+E:\code\vs\c#\study\学习csharp编程\013练习一二\bin\Debug\013练习一二.pdb
+E:\code\vs\c#\study\学习csharp编程\013练习一二\obj\Debug\013练习一二.csproj.CoreCompileInputs.cache
+E:\code\vs\c#\study\学习csharp编程\013练习一二\obj\Debug\013练习一二.exe
+E:\code\vs\c#\study\学习csharp编程\013练习一二\obj\Debug\013练习一二.pdb

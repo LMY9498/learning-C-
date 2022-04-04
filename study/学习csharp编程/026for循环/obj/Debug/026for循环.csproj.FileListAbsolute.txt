@@ -1,0 +1,6 @@
+E:\code\vs\c#\study\学习csharp编程\026for循环\bin\Debug\026for循环.exe.config
+E:\code\vs\c#\study\学习csharp编程\026for循环\bin\Debug\026for循环.exe
+E:\code\vs\c#\study\学习csharp编程\026for循环\bin\Debug\026for循环.pdb
+E:\code\vs\c#\study\学习csharp编程\026for循环\obj\Debug\026for循环.csproj.CoreCompileInputs.cache
+E:\code\vs\c#\study\学习csharp编程\026for循环\obj\Debug\026for循环.exe
+E:\code\vs\c#\study\学习csharp编程\026for循环\obj\Debug\026for循环.pdb

@@ -1,0 +1,13 @@
+E:/code/vs/c#/study/学习csharp编程/001-我们的第一个Csharp程序/bin/Debug/001-我们的第一个Csharp程序.exe.config
+E:/code/vs/c#/study/学习csharp编程/001-我们的第一个Csharp程序/bin/Debug/001-我们的第一个Csharp程序.exe
+E:/code/vs/c#/study/学习csharp编程/001-我们的第一个Csharp程序/bin/Debug/001-我们的第一个Csharp程序.pdb
+E:/code/vs/c#/study/学习csharp编程/001-我们的第一个Csharp程序/obj/Debug/001-我们的第一个Csharp程序.csprojAssemblyReference.cache
+E:/code/vs/c#/study/学习csharp编程/001-我们的第一个Csharp程序/obj/Debug/001-我们的第一个Csharp程序.csproj.CoreCompileInputs.cache
+E:/code/vs/c#/study/学习csharp编程/001-我们的第一个Csharp程序/obj/Debug/001-我们的第一个Csharp程序.exe
+E:/code/vs/c#/study/学习csharp编程/001-我们的第一个Csharp程序/obj/Debug/001-我们的第一个Csharp程序.pdb
+/Users/mengyunli/Documents/Code/code/vs/c#/study/学习csharp编程/001-我们的第一个Csharp程序/bin/Debug/001-我们的第一个Csharp程序.exe.config
+/Users/mengyunli/Documents/Code/code/vs/c#/study/学习csharp编程/001-我们的第一个Csharp程序/bin/Debug/001-我们的第一个Csharp程序.exe
+/Users/mengyunli/Documents/Code/code/vs/c#/study/学习csharp编程/001-我们的第一个Csharp程序/bin/Debug/001-我们的第一个Csharp程序.pdb
+/Users/mengyunli/Documents/Code/code/vs/c#/study/学习csharp编程/001-我们的第一个Csharp程序/obj/Debug/001-我们的第一个Csharp程序.csproj.CoreCompileInputs.cache
+/Users/mengyunli/Documents/Code/code/vs/c#/study/学习csharp编程/001-我们的第一个Csharp程序/obj/Debug/001-我们的第一个Csharp程序.exe
+/Users/mengyunli/Documents/Code/code/vs/c#/study/学习csharp编程/001-我们的第一个Csharp程序/obj/Debug/001-我们的第一个Csharp程序.pdb

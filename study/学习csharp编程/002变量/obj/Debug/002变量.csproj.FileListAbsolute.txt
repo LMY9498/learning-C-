@@ -1,0 +1,6 @@
+/Users/mengyunli/Documents/Code/code/vs/c#/study/学习csharp编程/002变量/bin/Debug/002变量.exe.config
+/Users/mengyunli/Documents/Code/code/vs/c#/study/学习csharp编程/002变量/bin/Debug/002变量.exe
+/Users/mengyunli/Documents/Code/code/vs/c#/study/学习csharp编程/002变量/bin/Debug/002变量.pdb
+/Users/mengyunli/Documents/Code/code/vs/c#/study/学习csharp编程/002变量/obj/Debug/002变量.csproj.CoreCompileInputs.cache
+/Users/mengyunli/Documents/Code/code/vs/c#/study/学习csharp编程/002变量/obj/Debug/002变量.exe
+/Users/mengyunli/Documents/Code/code/vs/c#/study/学习csharp编程/002变量/obj/Debug/002变量.pdb

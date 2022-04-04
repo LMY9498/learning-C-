@@ -1,0 +1,7 @@
+E:\code\vs\c#\study\学习csharp编程\042练习1练习2\bin\Debug\042练习1练习2.exe.config
+E:\code\vs\c#\study\学习csharp编程\042练习1练习2\bin\Debug\042练习1练习2.exe
+E:\code\vs\c#\study\学习csharp编程\042练习1练习2\bin\Debug\042练习1练习2.pdb
+E:\code\vs\c#\study\学习csharp编程\042练习1练习2\obj\Debug\042练习1练习2.csprojAssemblyReference.cache
+E:\code\vs\c#\study\学习csharp编程\042练习1练习2\obj\Debug\042练习1练习2.csproj.CoreCompileInputs.cache
+E:\code\vs\c#\study\学习csharp编程\042练习1练习2\obj\Debug\042练习1练习2.exe
+E:\code\vs\c#\study\学习csharp编程\042练习1练习2\obj\Debug\042练习1练习2.pdb

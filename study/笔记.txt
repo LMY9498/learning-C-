@@ -1,0 +1,43 @@
+BCL：Base Class Library 基类库
+CIL 公共中间语言
+CLR 公共语言运行库
+
+C#的控制台程序
+CTRL+F5 控制台执行后不退出
+引入命名空间   using System; 被调用是亮的，没有调用是灰色的
+声明命名空间
+namespace name{
+        *****
+}
+声明类
+class name{
+***
+}
+home到行首
+end 到行末
+pgup pgdn
+ctrl+x剪贴
+delete删除光标后的字符
+insert按下后再输入字符可以覆盖光标后的字符
+标识符----自己命名   命名规范   变量firstName     方法和类  FirstClass
+Main方法
+语句
+块
+BCL提供了一个Console类（在System命名空间下），该类包含了输入和输出到控制台窗口的方法。
+Console.Write("*****");
+Console.WriteLine("******");
+声明变量 <type> <name>;
+整数类型sbyte byte short int uint long ulong
+非数值类型 char bool string
+字面值：表示文本和数字的
+char
+string 是一个char的数组
+转义字符
+字符的Unicode值，是一个十六进制的数字，表示这个字符在内存中以哪个数字存储  \u字符的十六进制=字符
+使用@不识别转义字符
+ctrl+k 然后ctrl+c 注释
+ctrl+k 然后ctrl+u取消注释
+Console.ReadlLine()
+Convert.ToInt32(str)
+Convert.ToDouble(str)
+布尔运算符（比较运算）

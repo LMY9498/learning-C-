@@ -1,0 +1,6 @@
+E:\code\vs\c#\study\学习csharp编程\010接收输入显示和\bin\Debug\010接收输入显示和.exe.config
+E:\code\vs\c#\study\学习csharp编程\010接收输入显示和\bin\Debug\010接收输入显示和.exe
+E:\code\vs\c#\study\学习csharp编程\010接收输入显示和\bin\Debug\010接收输入显示和.pdb
+E:\code\vs\c#\study\学习csharp编程\010接收输入显示和\obj\Debug\010接收输入显示和.csproj.CoreCompileInputs.cache
+E:\code\vs\c#\study\学习csharp编程\010接收输入显示和\obj\Debug\010接收输入显示和.exe
+E:\code\vs\c#\study\学习csharp编程\010接收输入显示和\obj\Debug\010接收输入显示和.pdb

@@ -1,0 +1,6 @@
+E:\code\vs\c#\study\学习csharp编程\014练习三四\bin\Debug\014练习三四.exe.config
+E:\code\vs\c#\study\学习csharp编程\014练习三四\bin\Debug\014练习三四.exe
+E:\code\vs\c#\study\学习csharp编程\014练习三四\bin\Debug\014练习三四.pdb
+E:\code\vs\c#\study\学习csharp编程\014练习三四\obj\Debug\014练习三四.csproj.CoreCompileInputs.cache
+E:\code\vs\c#\study\学习csharp编程\014练习三四\obj\Debug\014练习三四.exe
+E:\code\vs\c#\study\学习csharp编程\014练习三四\obj\Debug\014练习三四.pdb

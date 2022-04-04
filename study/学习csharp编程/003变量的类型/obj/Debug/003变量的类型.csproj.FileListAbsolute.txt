@@ -1,0 +1,6 @@
+E:\code\vs\c#\study\学习csharp编程\003变量的类型\bin\Debug\003变量的类型.exe.config
+E:\code\vs\c#\study\学习csharp编程\003变量的类型\bin\Debug\003变量的类型.exe
+E:\code\vs\c#\study\学习csharp编程\003变量的类型\bin\Debug\003变量的类型.pdb
+E:\code\vs\c#\study\学习csharp编程\003变量的类型\obj\Debug\003变量的类型.csproj.CoreCompileInputs.cache
+E:\code\vs\c#\study\学习csharp编程\003变量的类型\obj\Debug\003变量的类型.exe
+E:\code\vs\c#\study\学习csharp编程\003变量的类型\obj\Debug\003变量的类型.pdb
